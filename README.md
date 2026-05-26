@@ -1,29 +1,35 @@
-# Hi, I'm Narendra 👋
+# Hey there 👋  
+I'm Narendra — a Software Engineer who enjoys building backend systems, solving performance problems, and designing scalable applications.
 
-🚀 Software Engineer passionate about building scalable systems.
+Most of my work revolves around Java, Spring Boot, microservices, Kafka, Redis, and cloud/devops tools. I like writing clean code, improving system performance, and learning better ways to build reliable software.
 
-## 💻 Tech Stack
-- **Backend:** Java, Spring Boot, Spring Cloud, Hibernate/JPA, REST APIs
-- **Frontend:** Angular, React
-- **Databases:** PostgreSQL, Redis
-- **DevOps & Cloud:** Docker, Kubernetes, Jenkins, AWS, Azure
-- **Tools:** Kafka, Git, Maven, JUnit, Mockito
+## Things I work with
+- Java, Spring Boot, Spring Cloud, Python
+- PostgreSQL, Redis
+- Kafka, RMQ & Event-Driven Systems
+- Docker, Kubernetes, Jenkins
+- AWS & Azure
+- REST APIs & Microservices
 
-## ⚡ What I Do
-- Build high-performance apps/microservices
-- Design secure and scalable APIs
-- Work with distributed systems & event-driven architecture
-- Optimize backend performance and database queries
-- Practice clean code, TDD, and design patterns
+## A project I'm proud of
+### 💸 Distributed Payment Processing System
+Built a wallet-to-wallet payment processing app using:
+- Saga Orchestration
+- Kafka
+- Redis Idempotency
+- WebSockets
+- Retry, DLQ & Outbox Patterns
 
+It was a fun project focused on handling distributed transactions and making systems reliable under concurrent requests.
 
-## 🏆 Achievements
-- Appreciation Award for impactful enterprise contributions
-- Solved 250+ DSA problems
+## A little more about me
+- I enjoy backend engineering and system design
+- Big fan of clean architecture & design patterns
+- Always curious about performance optimization
+- Love building things that actually scale
 
-## 🌐 Connect With Me
+## Connect with me
 - LinkedIn: linkedin.com/in/narendrareddy01
 - GitHub: github.com/narendra098
 
----
-⭐ Always learning, building, and improving.
+Thanks for stopping by 🙂
